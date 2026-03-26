@@ -51,18 +51,24 @@ Example:
 Received message: Hi
 
 ## Screenshots
-1. Application Running
 
+1. Application Running
+![App Running](screenshots/app-running.png)
 
 2. Postman Test - Hi
+![Postman Hi](screenshots/postman-hi.png)
 
 3. Postman Test - Bye
+![Postman Bye](screenshots/postman-bye.png)
 
 4. Console Logging
+![Console Logging](screenshots/console-logging.png)
 
 5. Unknown Message Response
+![Unknown Request](screenshots/request-other.png)
 
-🛠️ Tech Stack
+
+#  Tech Stack
 Java
 Spring Boot
 REST API
